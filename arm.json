@@ -15,11 +15,11 @@
       },
       "sku": {
         "type": "string",
-        "defaultValue": "B1"
+        "defaultValue": "F1"
       },
       "linuxFxVersion": {
         "type": "string",
-        "defaultValue": "PYTHON|7.4"
+        "defaultValue": "PYTHON|3.7"
       },
       "location": {
         "type": "string",
